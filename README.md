@@ -1,7 +1,7 @@
-#Arkanis Classes
+# Arkanis Classes
 Este projeto implementa um sistema de gestão de personagens e entidades baseado no universo de Arkanis. O sistema utiliza Programação Orientada a Objetos (POO) em Python para modelar diferentes tipos de especialistas, os seus vínculos (Arkanya e Essys) e as suas classes específicas, além de permitir a interação através de um menu de consola.
 
-#📋 Sobre o Projeto
+# 📋 Sobre o Projeto
 O objetivo principal é simular um guia de personagens onde é possível catalogar e listar Especialistas e Entidades. O sistema define automaticamente a lealdade ("Lado") de cada personagem com base nos seus níveis de vínculo com "Arkanya" e "Essys".
 
 Lógica de Alinhamento
