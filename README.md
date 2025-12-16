@@ -13,7 +13,7 @@ Guardiãs de Arkanya: Se o vínculo com Arkanya for superior ao de Essys.
 
 Neutro: Se os vínculos forem iguais.
 
-#🚀 Funcionalidades
+# 🚀 Funcionalidades
 O sistema possui um menu interativo (main.py) que permite:
 
 Listar Todos os Especialistas: Exibe todos os personagens cadastrados com os seus nomes e lados.
@@ -34,7 +34,7 @@ Obstinados: Especialistas escolhidos por uma arma ou objeto "Obstinado".
 
 Listar Entidades: Exibe as entidades supremas de Arkanya e as suas funções de julgamento.
 
-#🛠️ Estrutura do Código
+# 🛠️ Estrutura do Código
 O projeto está modularizado nos seguintes ficheiros:
 
 1. Classes Principais
@@ -53,7 +53,7 @@ especialistas_cadastrados.py: Responsável por "popular" o sistema. Inicializa l
 
 main.py: O ponto de entrada. Importa as classes e os dados, e executa o loop principal do menu.
 
-#📦 Como Executar
+# 📦 Como Executar
 Certifica-te de que tens o Python 3 instalado.
 
 Navega até à pasta onde os ficheiros estão localizados:
@@ -66,7 +66,7 @@ Executa o ficheiro principal:
 Bash
 
 python main.py
-#📊 Exemplo de Dados
+# 📊 Exemplo de Dados
 O sistema já vem pré-carregado com alguns personagens conhecidos para teste:
 
 Especialistas: Bagi, Choke, Moonkase, FunBabe.
@@ -75,7 +75,7 @@ Obstinados: Pac (Arco do Cupido), NinckLink (Foice Preta), entre outros.
 
 Entidades: Lohikäärme, Feyhara, O Rato, etc.
 
-#📐 Diagrama de Classes
+# 📐 Diagrama de Classes
 O projeto inclui um diagrama visual da estrutura (Diagrama de Classes_Arkanis.drawio.png) que ilustra a herança entre a classe Especialistas e as suas subclasses (Codificadores, Decodificadores, Obstinado), bem como a relação com o main.
 
 Desenvolvido para o estudo de Programação Orientada a Objetos com Python.
